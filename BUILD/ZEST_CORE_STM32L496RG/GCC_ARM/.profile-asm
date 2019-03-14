@@ -1,0 +1,24 @@
+{
+    "flags": [
+        "-x", 
+        "assembler-with-cpp"
+    ], 
+    "macros": [], 
+    "symbols": [
+        "ARM_MATH_CM4", 
+        "ATMEL_I2C_SCL=I2C_SCL", 
+        "ATMEL_I2C_SDA=I2C_SDA", 
+        "ATMEL_SPI_CS=SPI_CS", 
+        "ATMEL_SPI_IRQ=DIO3", 
+        "ATMEL_SPI_MISO=SPI_MISO", 
+        "ATMEL_SPI_MOSI=SPI_MOSI", 
+        "ATMEL_SPI_RST=DIO4", 
+        "ATMEL_SPI_SCLK=SPI_SCK", 
+        "ATMEL_SPI_SLP=DIO2", 
+        "TRANSACTION_QUEUE_SIZE_SPI=2", 
+        "__CMSIS_RTOS", 
+        "__CORTEX_M4", 
+        "__FPU_PRESENT=1", 
+        "__MBED_CMSIS_RTOS_CM"
+    ]
+}
